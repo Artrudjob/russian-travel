@@ -1,11 +1,11 @@
-.footer__column-one {
+.footer__column-links {
     min-width: 465px;
     display: flex;
     justify-content: space-between;
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
-    .footer__column-one {
+    .footer__column-links {
         min-width: 186px;
         min-height: 248px;
         flex-direction: column;
