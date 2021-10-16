@@ -1,7 +1,7 @@
 .cover__overlay {
     max-width: 1184px;
     min-height: 740px; 
-    background-image: url("images/background.jpg");
+    background-image: url("../../../images/background.jpg");
     display: flex;
     flex-direction: column;
     justify-content: center;
