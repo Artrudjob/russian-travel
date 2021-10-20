@@ -1,5 +1,8 @@
 .footer__column-links {
     min-width: 465px;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
     display: flex;
     justify-content: space-between;
 }
