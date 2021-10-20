@@ -1,0 +1,21 @@
+.lead_place_position {
+    margin: 56px auto 0 auto;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+    .lead_place_position {
+        margin: 48px auto 0 auto;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .lead_place_position {
+        margin: 48px auto 0 auto;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .lead_place_position {
+        margin: 48px auto 0 auto;
+    }
+}

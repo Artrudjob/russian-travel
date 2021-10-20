@@ -1,23 +1,22 @@
-.places {
-    max-width: 984px;
-}
+.intro_place_position {
+    margin: 92px auto 0 auto;
+} 
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
-    .places {
-        max-width: 928px;
+    .intro_place_position {
+        margin-left: 48px;
+        margin-right: 286px;
     }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
-    .places {
-        max-width: 720px;
+    .intro {
         margin-top: 88px;
     }
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
-    .places {
-        max-width: 320px;
+    .intro {
         margin-top: 64px;
     }
 }
